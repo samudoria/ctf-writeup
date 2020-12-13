@@ -1,1 +1,2 @@
-# ctf-writeup
+# CTF Writeups
+Repo with various CTF Writeups.
